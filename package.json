@@ -1,0 +1,18 @@
+{
+  "name": "nvelektronik",
+  "version": "1.0.0",
+  "description": "nvelektronik",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Tugba Gokalp",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
